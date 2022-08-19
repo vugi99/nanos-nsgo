@@ -1,2 +1,5 @@
 # nanos-nsgo
-CS:GO gamemode for nanos world
+
+## Known issues
+* Dropping or Taking a weapon from the ground doesn't persist on next round
+* Armour is not saved properly sometimes
